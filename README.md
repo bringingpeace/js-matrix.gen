@@ -23,5 +23,15 @@
 <hr>
 
 <h3>Thought proccess, issues and solutions</h3>
+<ol>
+    <li>Main goal was to create customizable matrix animation that fills selected area using vanilla CSS and JS.</li>
+    <li>Main issues I faced:
+        <ul>
+            <li>defining area to which content is rendered</li>
+            <li>creating proper loop that fills entire area</li>
+            <li>chosing performance over different animation ideas</li>
+        </ul>
+    </li>
+</ol>
 
     
