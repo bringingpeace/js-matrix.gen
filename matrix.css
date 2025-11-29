@@ -10,7 +10,6 @@ body {
   height: 100%;
   white-space: nowrap;
   overflow: hidden;
-  pointer-events: none;
 }
 .matrix-child {
   margin: 0;
