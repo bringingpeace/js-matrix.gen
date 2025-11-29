@@ -2,10 +2,8 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%;
-  overflow: hidden;
   background: rgb(14, 14, 14);
-  overscroll-behavior: none;
-}
+  }
 .matrix-container {
   position: fixed;
   inset: 0;
