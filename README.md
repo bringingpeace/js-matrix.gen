@@ -22,5 +22,6 @@
 
 <hr>
 
+<h3>Thought proccess, issues and solutions</h3>
 
     
