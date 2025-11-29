@@ -5,19 +5,20 @@ body {
   height: 100vh;
   overflow: hidden;
   overscroll-behavior: none;
-  touch-action: pan-x pan-y;
 }
 .matrix-container {
   width: 100%;
   height: 100%;
   white-space: nowrap;
   overflow: hidden;
+  font-size: 36px; /* needs to be exact with const fontSize */ 
+  position: fixed;
+  inset: 0;
 }
 .matrix-child {
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-size: 36px; /* needs to be exact with const fontSize */
   width: auto;
   font-family: monospace; /* needs to be a monospaced typefont! */
   display: inline-block;
