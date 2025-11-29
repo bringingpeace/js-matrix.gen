@@ -56,4 +56,7 @@ Goal was to create customizable matrix animation that fills selected area using 
 <p>• Add option to overlay gradient over all columns/selected column.</p>
 <p>• Look for more performance boost.</p>
 
-    
+
+<hr>
+<h3>🦗 Bugs</h3>
+<p>• Removed pointer-events:none => blocked refreshing on mobile devices by swapping down</p>
