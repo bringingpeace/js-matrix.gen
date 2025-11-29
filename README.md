@@ -9,4 +9,17 @@ Universal vanilla js matrix generator for background of any size.
 
 <h2 style="color: blue">Vanilla JS Matrix effect</h2>
       <h3>Custom content<br>Low loading<br>Pixel-perfect </h3>
+ <p><b>Custom content:</b> renders any text content from an input array.</p>
+    <p>
+      <b>Adjustable:</b> change colors and animation speed with simple inputs.
+    </p>
+    <p>
+      <b>Pixel-perfect:</b> fits any screen or container thanks to precise and
+      dynamic calculations.
+    </p>
+    <p>
+      <b>Performance:</b> quick loading times without noticable delays thanks to
+      light code and vanilla JS. (rendered and tested on ultrawide 3440x1440
+      display).
+    </p>
     
