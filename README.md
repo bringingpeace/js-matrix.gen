@@ -17,7 +17,7 @@ Universal vanilla js matrix generator for background of any size.
       <li>Thought process</li>
       <ul>
         <li>
-          Create black https://placehold.co/15x15/000000/000000.png background and a div with green #0f0 letters inside.
+          Create black <img width="15" height="15" src="https://placehold.co/15x15/000000/000000.png"/> background and a div with green #0f0 letters inside.
         </li>
         <li>
           Letters need to be randomised. It can also be a number or a sign.
