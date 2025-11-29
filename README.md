@@ -28,8 +28,8 @@ Universal vanilla js matrix generator for background of any size.
                 <img width="15" height="15" src="https://placehold.co/15x15/18824f/18824f.png"/>
           <img width="15" height="15" src="https://placehold.co/15x15/11b833/11b833.png"/>
           <img width="15" height="15" src="https://placehold.co/15x15/255f32/255f32.png"/>
-          <img width="15" height="15" src="https://placehold.co/15x15/2103a0fff/103a0fff.png"/>
-              )
+          <img width="15" height="15" src="https://placehold.co/15x15/2103a0fff/2103a0fff.png"/>
+              <img width="15" height="15" src="https://placehold.co/15x15/24ef4dff/24ef4dff.png"/>)
         </li>
       </ul>
     </ol>
