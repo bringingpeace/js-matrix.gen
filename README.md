@@ -59,4 +59,4 @@ Goal was to create customizable matrix animation that fills selected area using 
 
 <hr>
 <h3>🦗 Bugs</h3>
-<p>• Removed pointer-events:none => blocked refreshing on mobile devices by swapping down</p>
+<p>• Fixed css bug that prevented from refreshing on mobile devices</p>
