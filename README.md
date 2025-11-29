@@ -1,4 +1,3 @@
-# js-matrix.gen
 <h1>Enter into matrix</h1>
 
 <img width="492" height="422" alt="image" src="https://github.com/user-attachments/assets/95e25219-7917-4af6-8310-aba732b431ab" />
