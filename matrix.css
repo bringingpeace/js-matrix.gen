@@ -1,17 +1,20 @@
-body {
+html, body {
   margin: 0;
-  background: rgb(14, 14, 14);
-  width: 100%;
-  height: 100vh;
+  padding: 0;
+  height: 100%;
   overflow: hidden;
+  background: rgb(14, 14, 14);
   overscroll-behavior: none;
 }
 .matrix-container {
-  white-space: nowrap;
-  overflow: hidden;
-  font-size: 36px; /* needs to be exact with const fontSize */ 
   position: fixed;
   inset: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 36px; /* needs to be exact with const fontSize */
+  line-height: 1;
+  font-family: monospace;
+  user-select: none;
 }
 .matrix-child {
   margin: 0;
