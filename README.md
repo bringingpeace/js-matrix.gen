@@ -4,16 +4,20 @@
 
 
 
- <h3>Custom content:</h3>
- <p> Renders any text content from an input array.</p>
+<h3>Custom content:</h3>
+<p> Renders any text content from an input array.</p>
     
-  <h3>Adjustable:</h3> 
-  <p>Change colors and animation speed with simple inputs.</p>
+<h3>Adjustable:</h3> 
+<p>Change colors and animation speed with simple inputs.</p>
     
 <h3>Pixel-perfect:</h3> 
-<p>Fits any screen or container thanks to precise and dynamic calculations.</p>
-    
+<p>Fits any screen or container thanks to precise and dynamic calculations.</p>   
 
 <h3>Performance:</h3> 
 <p>Quick loading times without noticable delays thanks to light code and vanilla JS. (rendered and tested on ultrawide 3440x1440 display).</p>
+
+<h3>Stack:</h3>
+<p>CSS & Vanilla JS</p>
+
+
     
