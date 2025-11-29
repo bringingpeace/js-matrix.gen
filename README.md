@@ -7,7 +7,6 @@ Universal vanilla js matrix generator for background of any size.
 
 
 
-  <div style="text-align: center">
-      <h2 style="color: blue">Vanilla JS Matrix effect</h2>
-      <h3>custom content, fast loading time, pixel-perfect size</h3>
-    </div>
+<h2 style="color: blue">Vanilla JS Matrix effect</h2>
+      <h3> 📋 Custom content  |  ⚡ Fast loading time  |  🖩 Pixel-perfect size</h3>
+    
