@@ -8,7 +8,6 @@ body {
 }
 .matrix-container {
   width: 100%;
-  height: 100%;
   white-space: nowrap;
   overflow: hidden;
   font-size: 36px; /* needs to be exact with const fontSize */ 
