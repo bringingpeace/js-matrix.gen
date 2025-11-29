@@ -128,5 +128,5 @@ const fillScreen = function () {
 
 fillScreen();
 
-// add for dynamic resize if you want the effect to scale without refreshing the page
-window.addEventListener("resize", fillScreen);
+// add for dynamic resize if you want the effect to scale without refreshing the page, currently working only for desktop
+// window.addEventListener("resize", fillScreen);
