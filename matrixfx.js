@@ -2,7 +2,8 @@ const matrix = document.querySelector(".matrix-container");
 const fontSize = 36; // needs to be exact with css font-size
 const fontFamily = "monospace"; // needs to be a monospaced typefont!
 
-const colors = ["#18824f", "#11b833", "#255f32", "#103a0fff", "#24ef4dff"];
+// const colors = ["#18824f", "#11b833", "#255f32", "#103a0fff", "#24ef4dff"];
+const colors = ["#821818ff", "#b81111ff", "#5f2525ff", "#3a0f0fff", "#ef2424ff"];
 const alphabet = [
   "a",
   "b",
