@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  background: rgb(14, 14, 14);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+.matrix-container {
+  width: 100%;
+  height: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  pointer-events: none;
+}
+.matrix-child {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-size: 36px; /* needs to be exact with const fontSize */
+  width: auto;
+  font-family: monospace; /* needs to be a monospaced typefont! */
+  display: inline-block;
+  user-select: none;
+  display: inline-block;
+}
+@keyframes shimmer {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+}
+.shimmer {
+  animation-name: shimmer;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  transition-duration: ease;
+}
