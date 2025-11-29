@@ -15,8 +15,5 @@
     
 
 <h3>Performance:</h3> 
-<p>Quick loading times without noticable delays thanks to
-      light code and vanilla JS. (rendered and tested on ultrawide 3440x1440
-      display).
-    </p>
+<p>Quick loading times without noticable delays thanks to light code and vanilla JS. (rendered and tested on ultrawide 3440x1440 display).</p>
     
