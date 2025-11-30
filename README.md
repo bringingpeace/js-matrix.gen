@@ -1,4 +1,5 @@
 <h2>Enter the matrix</h2>
+<p>• Live preview https://bringingpeace.github.io/js-matrix.gen/</p>
 
 <!-- <img width="492" height="422" alt="image" src="https://github.com/user-attachments/assets/95e25219-7917-4af6-8310-aba732b431ab" /> -->
 <img width="500px" alt="matrix.gif" src="matrix.gif"/>
